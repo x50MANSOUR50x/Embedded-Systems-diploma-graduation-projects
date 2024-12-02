@@ -1,1 +1,1 @@
-<h1>Download the pdf to see the projects descripition.</h1>
+<h1>Download the pdf to see the projects description.</h1>
